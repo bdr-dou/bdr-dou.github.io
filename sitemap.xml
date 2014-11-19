@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://bdr-dou.github.io/blog/20141120/zhong-qing-mou-ge-ren-zi-jin-2000mo-xun-ben-di-nong-lin-huo-lu-you-xiang-mu-gu-quan-tou-zi/</loc>
+    <lastmod>2014-11-20T01:50:15+08:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>http://bdr-dou.github.io/blog/20141120/zhong-qing-mou-tou-zi-gong-si-500mo-5yi-zi-jin-xun-si-chuan-,-zhong-qing-chuang-ye-xing-xiang-mu/</loc>
     <lastmod>2014-11-20T01:44:57+08:00</lastmod>
     <priority>0.8</priority>
@@ -187,13 +192,13 @@
   </url>
   <url>
     <loc>http://bdr-dou.github.io/blog/archives/</loc>
-    <lastmod>2014-11-20T01:44:59+08:00</lastmod>
+    <lastmod>2014-11-20T01:50:18+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://bdr-dou.github.io/</loc>
-    <lastmod>2014-11-20T01:44:59+08:00</lastmod>
+    <lastmod>2014-11-20T01:50:18+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
