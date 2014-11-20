@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://bdr-dou.github.io/sitemap.xml 
+Sitemap: http://c.easyrz.com/sitemap.xml 
