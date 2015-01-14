@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://c.easyrz.com/blog/20150114/jiang-su-nan-jing-mou-qi-ye-zi-jin-100mo-5yi-xun-qiu-fang-di-chan-lei-hao-xiang-mu/</loc>
+    <lastmod>2015-01-14T18:30:04+08:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>http://c.easyrz.com/blog/20150114/yan-dong-mou-qi-ye-zi-jin-1000mo-2000mo-xun-can-yin-,-jiu-lei-ji-bao-jian-pin-xiang-mu/</loc>
     <lastmod>2015-01-14T16:23:03+08:00</lastmod>
     <priority>0.8</priority>
@@ -4652,13 +4657,13 @@
   </url>
   <url>
     <loc>http://c.easyrz.com/blog/archives/</loc>
-    <lastmod>2015-01-14T16:23:05+08:00</lastmod>
+    <lastmod>2015-01-14T18:30:07+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://c.easyrz.com/</loc>
-    <lastmod>2015-01-14T16:23:05+08:00</lastmod>
+    <lastmod>2015-01-14T18:30:07+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
