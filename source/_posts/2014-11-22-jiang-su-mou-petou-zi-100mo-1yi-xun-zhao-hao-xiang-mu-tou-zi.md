@@ -7,7 +7,7 @@ categories:
 ---
 江苏某PE投资100万-1亿寻找好项目投资
 
-[江苏某PE投资100万-1亿寻找好项目投资](http://zijin.trjcn.com/detail_248199.html)
+
 
 更新时间：2014-11-22
 

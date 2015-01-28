@@ -7,7 +7,7 @@ categories:
 ---
 上海某企业资金110亿-200亿寻BT、BOT项目投资
 
-[上海某企业资金110亿-200亿寻BT、BOT项目投资](http://zijin.trjcn.com/detail_248228.html)
+
 
 更新时间：2014-11-22
 

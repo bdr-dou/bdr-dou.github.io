@@ -7,7 +7,7 @@ categories:
 ---
 贵州遵义某企业5000万资金找项目
 
-[贵州遵义某企业5000万资金找项目](http://zijin.trjcn.com/detail_149990.html)
+
 
 更新时间：2014-11-19
 
